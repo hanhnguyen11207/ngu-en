@@ -11,7 +11,4 @@ Lạc vào tim  em  lẻ loi
 #question : 'Trên thế giới hơn 7 tỉ người mà sao cậu yêu toi? <3' ,
 #btnReply : 'Gửi cho anh <3' ,
 #reply : 'Yêu thì yêu mà không yêu thì yêu <33333333' ,
-#lộn xộn : 'Anh biết mà 🥰. Yêu em nhiều 😘😘 ' ,
-#messDesc : 'Tối nay 7h anh qua đón nhé công chúa.' ,
-#btn Chấp nhận : 'Okiiiii lun <3' ,
-#messLink : 'https://www.facebook.com/ouyevoli07/'
+#lộn xộn : 'Anh biết mà 🥰. Yêu=
